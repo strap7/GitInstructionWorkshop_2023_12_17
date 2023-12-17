@@ -48,3 +48,5 @@
 
 # Apache Subversion (SVN)
 
+
+чтото написали на семинаре
